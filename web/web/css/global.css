@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --button-dark-color: #1F545B;
+  --dark-text-color: #1F545B;
+  --black-text-color: #000000;
+  --decoration-line-color: #1F545B;
+  --button-dark-color-hover: #163c41;
+  --dropdown-menu-background-color: #ffffff;
+  --bright-text-color: #ffffff;
+  --background-drop-header-menu: #83CFDA;
+  --hero-section-background: #E3F9F7;
+  --bright-button-color: #ffffff;
+  --bright-button-hover-color: #ffffff8a;
+  --background-color-for-text-about-us-section: #CDEEEB;
+  --background-color-for-image-about-us-section: #ffff;
+  --background-color-for-proposals-section-line-decoration: #C9DCDA;
+  --accordion-light-background-color: #F0FFFE;
+  --accordion-darker-background-color: #CDEEEB;
+  --accordion-hover-background-color: #b3dad7;
+  --accordion-dark-background-color: #aadcd7;
+  --team-section-background-color: #F0FFFE;
+  --team-section-form-update-message-success: #80e080;
+  --team-section-form-update-message-warning: #ffa06c;
+  --team-section-form-update-message-error: #ff6c6c;
+  --footer-background-color: #D0EDEB;
+  font-size: 16px;
+  font-family: Montserrat, sans-serif;
+  scroll-behavior: smooth;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 400;
+}
+
+h1 span {
+  font-family: Marcellus SC, serif;
+}
+
+.container {
+  min-width: 320px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+
+
+button {
+  font-size: 17px;
+  font-weight: 400;
+  cursor: pointer;
+  border: none;
+  padding: 10px 20px;
+  font-family: Montserrat,
+    sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  min-width: 320px;
+
+}
