@@ -27,15 +27,6 @@ If you are interested in the description of our project, you can follow the link
 
 **![Untitled video — made in Clipchamp (1)](https://github.com/user-attachments/assets/9fff9117-f63d-4a88-9f47-3bacf4ab96ae)**
 
-## **Make Your Contribution to the Project** 
-1. Fork this repository
-2. Clone the forked repository
-3. Add your changes
-4. Commit and push
-5. Create a pull request
-6. Star this repository
-7. Wait for the pull request to merge
-
 -------------------------------------------------
 ## **Authors**
 
@@ -85,15 +76,6 @@ If you have any questions or comments about the project, please contact us **fel
 Якщо вас зацікавив опис нашого проєкту ви можете перейти за посиланням щоб побачити його **[Minerva](https://nancyiok.github.io/Minerva/)**
 
 **![Відео без назви — зроблено у Clipchamp (1)](https://github.com/user-attachments/assets/9fff9117-f63d-4a88-9f47-3bacf4ab96ae)**
-
-## **Зробіть свій внесок у проект** 
-1. Створіть форк цього репозиторію
-2. Клонування форк-репозиторію
-3. Додати свої зміни
-4. Фіксація та відправка
-5. Створення запиту на витягування
-6. Позначте цей репозиторій зірочкою
-7. Дочекайтесь злиття запиту на витягування
 
 -------------------------------------------------
 ## **Автори**
